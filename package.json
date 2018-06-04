@@ -1,6 +1,6 @@
 {
   "name": "socketnode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Multi client node.js socket server",
   "main": "index.js",
   "scripts": {
