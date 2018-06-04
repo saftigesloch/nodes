@@ -1,0 +1,14 @@
+{
+  "name": "socketnode",
+  "version": "1.0.0",
+  "description": "Multi client node.js socket server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Loch, Saftiges",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^5.2.0"
+  }
+}
