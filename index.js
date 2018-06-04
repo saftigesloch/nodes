@@ -1,6 +1,6 @@
 var WebSocketServer = require("ws").Server;
-var wss = new WebSocketServer({port: 7007});
-console.log("Server is Running...");
+var wss = new WebSocketServer({port: 8080});
+console.log("Server is Running on 8080...");
 
 // Create a "broadcast" function on our WebSocketServer object.
 // The function will take a "msg" paramter. When called, it will
