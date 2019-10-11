@@ -9,6 +9,6 @@
   "author": "Loch, Saftiges",
   "license": "MIT",
   "dependencies": {
-    "ws": "^1.1.1"
+  "ws": ">=3.3.1"
   }
 }
